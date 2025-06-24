@@ -151,6 +151,7 @@ namespace infinite_xp
             "Gwendolin",
             "PatFusty",
             "Psi",
+            "Desperado",
         };
 
         public override void OnUpdate()
